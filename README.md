@@ -9,6 +9,7 @@
   * TableofContents
     * [https://github.com/knittingirl/CTF-Writeups/tree/main/pwn_challs/romCTF21/TableofContents](https://github.com/knittingirl/CTF-Writeups/tree/main/pwn_challs/romCTF21/TableofContents)
     * [https://www.neteye-blog.com/2021/09/romhack-ctf-2021-table-of-contents-writeup/](https://www.neteye-blog.com/2021/09/romhack-ctf-2021-table-of-contents-writeup/)
+    * [https://github.com/SBird1337/Romhack2021-Writeups/tree/master/TableofContents](https://github.com/SBird1337/Romhack2021-Writeups/tree/master/TableofContents)
 * Crypto
   * Nonce-Sense
     * [https://hilb3r7.github.io/walkthroughs/nonce-sense.html](https://hilb3r7.github.io/walkthroughs/nonce-sense.html)
