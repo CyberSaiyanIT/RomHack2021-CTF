@@ -15,6 +15,7 @@
     * [https://hilb3r7.github.io/walkthroughs/nonce-sense.html](https://hilb3r7.github.io/walkthroughs/nonce-sense.html)
     * [https://blog.c4pr1c0rn.ch/writeups/romhack_21/nonce_sence.html](https://blog.c4pr1c0rn.ch/writeups/romhack_21/nonce_sence.html)
   * LCGatsu
+    * [https://github.com/doanhnn/LCGatsu](https://github.com/doanhnn/LCGatsu)
 * Reversing
   * PXEboot
   * Wasteland
