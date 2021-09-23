@@ -18,6 +18,7 @@
     * [https://github.com/doanhnn/LCGatsu](https://github.com/doanhnn/LCGatsu)
 * Reversing
   * PXEboot
+    * [https://pwnthem0le.polito.it/2021/09/23/Romhack-2021-PXEboot-WriteUp/](https://pwnthem0le.polito.it/2021/09/23/Romhack-2021-PXEboot-WriteUp/)
   * Wasteland
 * Forensic
   * Pay the ransom
