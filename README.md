@@ -14,6 +14,7 @@
   * Nonce-Sense
     * [https://hilb3r7.github.io/walkthroughs/nonce-sense.html](https://hilb3r7.github.io/walkthroughs/nonce-sense.html)
     * [https://blog.c4pr1c0rn.ch/writeups/romhack_21/nonce_sence.html](https://blog.c4pr1c0rn.ch/writeups/romhack_21/nonce_sence.html)
+	* [Youtube CTF Walkthrough: HTB x RomHack - Crypto 01 - Nonce Sense (ITA)](https://www.youtube.com/watch?v=POpITt_u7QU)
   * LCGatsu
     * [https://github.com/doanhnn/LCGatsu](https://github.com/doanhnn/LCGatsu)
 * Reversing
